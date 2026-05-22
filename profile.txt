@@ -1,0 +1,10 @@
+Hi, I’m Kevin 👋
+
+I value truthfulness above all else and consider honesty a part of me.
+I’m a Fullstack Developer with over 3 years of experience building scalable, reliable, and user-centric web applications. I specialize in React, TypeScript, and Python (Django), delivering end-to-end solutions from design and development to deployment and iteration.
+
+I’m passionate about turning complex problems into elegant, efficient solutions while collaborating closely with product, design, and stakeholders. My experience spans frontend interfaces, backend services, database design, and deploying production-grade systems, with a strong focus on performance, maintainability, and user experience.
+
+I thrive in fast-paced, innovative environments and am always eager to contribute to projects that push the boundaries of technology and user engagement.
+
+Let’s connect and build something impactful together!
